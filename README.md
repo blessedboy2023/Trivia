@@ -8,5 +8,5 @@
   Hooray! You did it! You finished the Trivia! Good job!
 </h1>
 <center>
-    <img src="good.gif"width="250" height="250">
+    <img src="images/good.gif"width="250" height="250">
 </center>
